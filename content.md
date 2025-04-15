@@ -1,6 +1,6 @@
 
 <pre> Embedding playground: </pre>
-<pre>```https://developer.salesforce.com/tools/tableau/embedding-playground``` </pre>
+<pre>https://developer.salesforce.com/tools/tableau/embedding-playground</pre>
 
 <pre> Tableau URL: ```[https://us-west-2a.online.tableau.com/t/embedwiththebest/views/LibrariesandVolumes/LibrariesandVolumes](https://us-west-2a.online.tableau.com/t/embedwiththebest/views/LibrariesandVolumes/LibrariesandVolumes)``` </pre>
  
