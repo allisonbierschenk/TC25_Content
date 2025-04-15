@@ -13,4 +13,7 @@ Connected App Info:
 
 <pre> Glitch URL: ```https://glitch.com/edit/#!/embed-with-the-best-hot``` </pre>
 
+### Embedding playground
+```text
+https://developer.salesforce.com/tools/tableau/embedding-playground
 
