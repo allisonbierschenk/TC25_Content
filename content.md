@@ -1,8 +1,10 @@
+### Embedding playground
+```text
+https://developer.salesforce.com/tools/tableau/embedding-playground
 
-<pre> Embedding playground: </pre>
-<pre>https://developer.salesforce.com/tools/tableau/embedding-playground</pre>
-</br>
-<pre> Tableau URL: ```[https://us-west-2a.online.tableau.com/t/embedwiththebest/views/LibrariesandVolumes/LibrariesandVolumes](https://us-west-2a.online.tableau.com/t/embedwiththebest/views/LibrariesandVolumes/LibrariesandVolumes)``` </pre>
+### Tableau URL:
+```text
+https://us-west-2a.online.tableau.com/t/embedwiththebest/views/LibrariesandVolumes/LibrariesandVolumes
  
 
 Connected App Info:
@@ -13,7 +15,5 @@ Connected App Info:
 
 <pre> Glitch URL: ```https://glitch.com/edit/#!/embed-with-the-best-hot``` </pre>
 
-### Embedding playground
-```text
-https://developer.salesforce.com/tools/tableau/embedding-playground
-
+epic.5400953bbf1e@orgfarm.com
+orgfarm1234
