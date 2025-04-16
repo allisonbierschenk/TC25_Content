@@ -1,12 +1,12 @@
 ### Embedding playground
-```text
+
 https://developer.salesforce.com/tools/tableau/embedding-playground
-```
+
 
 ### Tableau URL:
-```text
+
 https://us-west-2a.online.tableau.com/t/embedwiththebest/views/LibrariesandVolumes/LibrariesandVolumes
- ```
+
 
 ### Connected App Info:
 #### Client ID: 
